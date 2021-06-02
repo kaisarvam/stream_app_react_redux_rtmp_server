@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Playing Far Cry 5 on GTX1050ti",
+      "description": "in game commentary (join)",
+      "userId": "108850030763465150734",
+      "id": 1
+    },
+    {
+      "title": "Developing an E-commerce site with MERN stack",
+      "description": "Full process on Live",
+      "userId": "108850030763465150734",
+      "id": 2
+    },
+    {
+      "title": "King Kong VS Godzilla (live Announcement)",
+      "description": "Live announcement of the movie 2021",
+      "userId": "108850030763465150734",
+      "id": 3
+    },
+    {
+      "title": "Streaming a Development App",
+      "description": "Full development Stream",
+      "userId": "108850030763465150734",
+      "id": 4
+    },
+    {
+      "title": "Live stream",
+      "description": "pc live stream",
+      "userId": "112291287813869150684",
+      "id": 5
+    }
+  ]
+}
